@@ -1,2 +1,2 @@
 # Cpp
-Repository for Studying C++
+* 백준 @rougefleur
